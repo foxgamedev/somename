@@ -1,0 +1,655 @@
+{
+  "version": "2026-06-13_232015",
+  "files": [
+    {
+      "path": "system/ALAudio.dll",
+      "sha256": "1a589f91b748eb0662ef29a0ef62cadcc40a18d56b46bb73a6e72a428f437f23",
+      "size": 352276
+    },
+    {
+      "path": "system/ALAudio.int",
+      "sha256": "25f4e583409d798cd10cdca79eb8620395ca383a50cdecedd2ab3d501eba803c",
+      "size": 2658
+    },
+    {
+      "path": "system/Core.dll",
+      "sha256": "9462f87a5e77d21865e2e00264efd44df25feb47aa78f8a72e9cf66ce4e919bf",
+      "size": 1372180
+    },
+    {
+      "path": "system/Core.u",
+      "sha256": "de5f0ee0a773327bce13c96622fd3c654cff7db88b9be065d1232590c140fda0",
+      "size": 65662
+    },
+    {
+      "path": "system/D3DDrv.dll",
+      "sha256": "05622ddea5d96aec5618bc1ae064af9d27d83178f78d9631b5448377502e1323",
+      "size": 1277972
+    },
+    {
+      "path": "system/Editor.u",
+      "sha256": "da5c6fe8b2d3639286c0407695465ddfce72c2d5bbacb7c2ee0885451f0dc70f",
+      "size": 593932
+    },
+    {
+      "path": "system/Engine.int",
+      "sha256": "4f178abee824ebb092aab5012ad4096469d6aaa26e426041bb1954360c7aaa3f",
+      "size": 6700
+    },
+    {
+      "path": "system/Engine.u",
+      "sha256": "9b04ff5cb4258e84dfa8efbdd85d9121f3bdcb5822a9a21ca69d200d05a69761",
+      "size": 2805259
+    },
+    {
+      "path": "system/Env.int",
+      "sha256": "972439ef9087daaadcbb3179a988c61a5fa16848c6cd257414690c72873eb587",
+      "size": 5943
+    },
+    {
+      "path": "system/Fire.dll",
+      "sha256": "002d9913089ec2ad13a91f93882f5042a7586925c4741bf78acb9c33747ce801",
+      "size": 315412
+    },
+    {
+      "path": "system/Fire.u",
+      "sha256": "6933afddb8830aafa754a59b97782fe66dda102c58395b3776e4672aeef76527",
+      "size": 15491
+    },
+    {
+      "path": "system/GameGuard.des",
+      "sha256": "1ead3f96bf1be83fc648eb26dc99fd5b3f15c6a112e1178cc495995622e0bf31",
+      "size": 153375
+    },
+    {
+      "path": "system/GamePlay.u",
+      "sha256": "714639cdad265a7caeaf0f91ce76bb50492390eaa3faea15ed5a28a3e830b64a",
+      "size": 212008
+    },
+    {
+      "path": "system/Interface.u",
+      "sha256": "5da491d8234863a94bfa1959bcb0be2cd5cdf81110003785436eecc04c86decd",
+      "size": 1964561
+    },
+    {
+      "path": "system/Interface.xdat",
+      "sha256": "a7969a86d3b676d95cfd42cfd6cd0742c07d7941250dbb63a2ba6d937961c1f4",
+      "size": 534267
+    },
+    {
+      "path": "system/IpDrv.dll",
+      "sha256": "6aa42dd76c26169c8608f7895ac37bb1491f802a80e04e16d8f3ac2674c864d3",
+      "size": 491540
+    },
+    {
+      "path": "system/IpDrv.u",
+      "sha256": "0a156f4800c5c4c9b3b12e9944a779d9c4fcd517aa25d64964fa523836191f9b",
+      "size": 73703
+    },
+    {
+      "path": "system/ItemName-e.dat",
+      "sha256": "3679470522626b1e8b18f4a23a506fcf4e3b4c062f463e676d743a2ba603bf86",
+      "size": 239664
+    },
+    {
+      "path": "system/L2.exe",
+      "sha256": "001414e69ed8f53a01fc7c79d3f6c854c86a4581bf9992aaefa3ec78e426544c",
+      "size": 495636
+    },
+    {
+      "path": "system/L2CompiledShader.bin",
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119",
+      "size": 4
+    },
+    {
+      "path": "system/LargeFont-r.gly",
+      "sha256": "c6fcda82f4435677fd492da60f886813602d3b38463912f37fa2142191b151be",
+      "size": 5656
+    },
+    {
+      "path": "system/Lineage2us.ini",
+      "sha256": "33f1f7e2c8bf5b1d8d947a5596a59a1295d0e1fedfda6775bdfb8a2ad713b364",
+      "size": 376
+    },
+    {
+      "path": "system/LineageCreature.dll",
+      "sha256": "cc4ab2c081276693ad111af0b063d8d46ddffda22a5e6bfcc8304a61c6be9207",
+      "size": 131092
+    },
+    {
+      "path": "system/LineageCreature.u",
+      "sha256": "6b13fe4e9d92e212aaac6d80bbb56370bdb43ea2be7df7aa7cafb74cfc085907",
+      "size": 12054
+    },
+    {
+      "path": "system/LineageDeco.u",
+      "sha256": "77a3f23688df5bd8919952c5b15a59e7cc6c5507357ccaf4e443150f882bc387",
+      "size": 6752
+    },
+    {
+      "path": "system/LineageEffect.u",
+      "sha256": "ea090154c4b8eb2f4fafab331c85fd8f7e42869ec71eb4f11323b546b550114a",
+      "size": 2006536
+    },
+    {
+      "path": "system/LineageMonster.int",
+      "sha256": "2f026530e5b7f3d6ba43bbc208252cc665c965cec4d16a1a84d11e48192eb432",
+      "size": 527907
+    },
+    {
+      "path": "system/LineageMonster.u",
+      "sha256": "f06ac53f7df24bd13d6e7a0d25d9e3ca4e4502af2437518e49d96a053987d7b6",
+      "size": 176945
+    },
+    {
+      "path": "system/LineageMonster2.u",
+      "sha256": "c623818bfe1b6ef201785afd4bdac3ffc20e443b4c122a78cea79c473fe99420",
+      "size": 68190
+    },
+    {
+      "path": "system/LineageMonster3.int",
+      "sha256": "04c4aa4e0a6620cfb66d9d8c2a75a1b2cdc73012488e0c3de25f126d2a9c0c0e",
+      "size": 55710
+    },
+    {
+      "path": "system/LineageMonster3.u",
+      "sha256": "f3b211e69a4cb94aa8962d5fdd3969dad895aa214e5cf60577ec7d3f69fc5709",
+      "size": 79016
+    },
+    {
+      "path": "system/LineageNpc.int",
+      "sha256": "4b00c3462fa724ecd6d3eb7a6fa5ea5aaae651da4aab5b029b985bb12a2093b9",
+      "size": 103714
+    },
+    {
+      "path": "system/LineageNpc.u",
+      "sha256": "22208e416e5b986042fb5d67bca3a519329d81b289843b5ea442d73b2495f7d0",
+      "size": 91687
+    },
+    {
+      "path": "system/LineageNpc2.u",
+      "sha256": "3a68b645d1912b7a882bca3bfd41f12be45286dd118798ea63244173fcb7b3fc",
+      "size": 14464
+    },
+    {
+      "path": "system/LineageNpcEv.u",
+      "sha256": "9fdf8e870e7477d6b67b1a05a401f04a76deeeabba7dca8d9a48bc01062e09fb",
+      "size": 12192
+    },
+    {
+      "path": "system/LineageVehicle.u",
+      "sha256": "79282682d4e49df5287ecfa2d6ac89df4abb01ff6495b46f1ed16c9eaa624066",
+      "size": 9084
+    },
+    {
+      "path": "system/LineageWarrior.u",
+      "sha256": "747b1e7c3045c748c08b03b54893dc2d29cf7103379f19804ccbeb7764224558",
+      "size": 31540
+    },
+    {
+      "path": "system/Localization.ini",
+      "sha256": "789e47402c9a2a1c59a2974b6053e70e6b45d1fb7f317779a751b1ccfd987a30",
+      "size": 3690
+    },
+    {
+      "path": "system/MobSkillAnimgrp.dat",
+      "sha256": "332606a16ec24dd050abb597604eaed95280cd1887dddc0177858c20c025ff18",
+      "size": 67632
+    },
+    {
+      "path": "system/NWindow.dll",
+      "sha256": "af6c3437f3ccf1b26af8b066e0bbd791c7909c94bd3c7d9e3c68c5edcfe059a7",
+      "size": 3850260
+    },
+    {
+      "path": "system/NWindow.u",
+      "sha256": "6f3171147d83e447f2427e249c2ad73428e2b385d1557b86c53effa1062ea791",
+      "size": 251512
+    },
+    {
+      "path": "system/NpcName-e.dat",
+      "sha256": "84c79b73a97e489b455f44f21d8c8cba0f4df401ccb1d56887a1eacc62285b9a",
+      "size": 51248
+    },
+    {
+      "path": "system/SmallFont-r.gly",
+      "sha256": "076813f1f3f96a886267dc91e332af71aee883b6d0f7d12a9f974743495d1954",
+      "size": 5536
+    },
+    {
+      "path": "system/TTFontInfo.ini",
+      "sha256": "23dc2fda01d6bf08660dc659c3ba125b145e0a34e6fc15318085d7c3b18b2f7f",
+      "size": 795
+    },
+    {
+      "path": "system/UDebugMenu.u",
+      "sha256": "80ce780ae87300cded6af855e83b071fbb423ace22902b12490e1bc9e10cc543",
+      "size": 263641
+    },
+    {
+      "path": "system/UWindow.u",
+      "sha256": "eac8be32d9039d415989e93d8af549dc0bffe1d811e3cf46268318708e8fd3d4",
+      "size": 693798
+    },
+    {
+      "path": "system/WinDrv.dll",
+      "sha256": "40e5b9bc5a72fd3e2b99e99e45a1ec4dd2fdb14693bb3707c8cfe51f2c35c2f6",
+      "size": 634900
+    },
+    {
+      "path": "system/Window.dll",
+      "sha256": "1b1b6328087ab8fefed4dcdd27388e3177e4fcfdaf61d50b3e34df93b8493a31",
+      "size": 749588
+    },
+    {
+      "path": "system/WindowsInfo.ini",
+      "sha256": "dee841ecca55c3716ccc891133c9b37d7f4e14f46f4924aeffdf1c9986d3fe4c",
+      "size": 2166
+    },
+    {
+      "path": "system/ZoneName-e.dat",
+      "sha256": "753d5ae302513a60ef2df304a3e4283e034a23548f9924753bad61993870f57b",
+      "size": 6064
+    },
+    {
+      "path": "system/actionname-e.dat",
+      "sha256": "131ca5a5b07ff4b23a4912dcb6a23597931223bfd746679a40316534d5257cc2",
+      "size": 6832
+    },
+    {
+      "path": "system/armorgrp.dat",
+      "sha256": "1bfcd3b1a4796f235ab1f507114fbde6979a662a650481eee34954c9d9afd6d3",
+      "size": 101552
+    },
+    {
+      "path": "system/asiahm-medium.ttf",
+      "sha256": "c698593dae0cf4d5202871e92953861d3b7ab2dcea524f32b4222123e3bc9b59",
+      "size": 601048
+    },
+    {
+      "path": "system/bighead.int",
+      "sha256": "a7d939ff5cf2808ff30d33efd8c6e9a6c32e916043efb23a56c8f426ab7f1032",
+      "size": 350
+    },
+    {
+      "path": "system/castlename-e.dat",
+      "sha256": "4d26b3064836becae6b5f7173f210e777f53765069daa6cf1f66a9b412da37de",
+      "size": 1072
+    },
+    {
+      "path": "system/chargrp.dat",
+      "sha256": "2bb52de25ef3558f51e458c0095efcd9c509dfd5b5695a269f268b5f235fbc0f",
+      "size": 2480
+    },
+    {
+      "path": "system/chatfilter.ini",
+      "sha256": "6c15535d48830d40a822ed665f2a67cb537f13db6d344e2b2d5d86fab6c1d7ea",
+      "size": 203
+    },
+    {
+      "path": "system/classinfo-e.dat",
+      "sha256": "537681972450e4f3264efcc00748a3776f2420fa7e1531556934ebe41e560507",
+      "size": 2224
+    },
+    {
+      "path": "system/cloak.int",
+      "sha256": "4165d0593d8dc627e5bf90f10ce700958916fd7157d890abe212a11a39d35f70",
+      "size": 454
+    },
+    {
+      "path": "system/commandname-e.dat",
+      "sha256": "65b37c242f55cbc437cd51551a1fe6c1f241a0e9cc882d19ddbbc066539f9e02",
+      "size": 1328
+    },
+    {
+      "path": "system/core.int",
+      "sha256": "432a472b6e0cf9a31008a0468670f1e30871f3965f71465a2796951b72a40d27",
+      "size": 3423
+    },
+    {
+      "path": "system/creditfont.gly",
+      "sha256": "3cd03bf241ef34b8698cb03cb89d48bd0110ba797d94510987469fad8ff68a85",
+      "size": 181800
+    },
+    {
+      "path": "system/creditgrp-e.dat",
+      "sha256": "521f3400a1e5c4700a7fe64279fb3f173889867eda8265399d616cec68e37ecf",
+      "size": 816
+    },
+    {
+      "path": "system/defopenal32.dll",
+      "sha256": "96ec36c0631c73072423ad6eb35f07588b37ceb770cc145073a844a7086c20ca",
+      "size": 102420
+    },
+    {
+      "path": "system/dsetup.dll",
+      "sha256": "d48dfa0f6177fe307c97f36c0af6d2d9027b42c263ddd31b6d463141b0e7d824",
+      "size": 62996
+    },
+    {
+      "path": "system/encvag.dll",
+      "sha256": "c888278386ad6f171af5db05ab9d892e103fedf5fefa2c859634bae3206620e8",
+      "size": 150548
+    },
+    {
+      "path": "system/engine.dll",
+      "sha256": "508974c711f207402719e92737e211a2f029c95c2f68fc0e1c31fcbb9dbb232d",
+      "size": 30704468
+    },
+    {
+      "path": "system/entereventgrp.dat",
+      "sha256": "748a0b56f4c92854ddd639945c40d1956601bbc78a034a79c15ffa415f6608f5",
+      "size": 4016
+    },
+    {
+      "path": "system/etcitemgrp.dat",
+      "sha256": "0f752a6d27aecda02c99b6f0fa4a710b33731fa36786ca3d3de54f1aec4c8747",
+      "size": 80816
+    },
+    {
+      "path": "system/eula-e.dat",
+      "sha256": "b435be030473bbf9fd9321decb6b93d5311d8d7578caafcc50ff2cc6540e80ed",
+      "size": 12464
+    },
+    {
+      "path": "system/gametip-e.dat",
+      "sha256": "e0e1bf2810965f97d69e592509bdd4e4e2edd2cf92a3ad0eb2501626f254d422",
+      "size": 12976
+    },
+    {
+      "path": "system/hair.int",
+      "sha256": "c5e404054bbc2e0bd88848e33a706e7ec2deb61e27f29034d579a0982b1cbe73",
+      "size": 110933
+    },
+    {
+      "path": "system/hairaccessarygrp.dat",
+      "sha256": "85964918a193c6aa39829f22e1a14c6a27b9076c5cd04a2996fa041f52e500a3",
+      "size": 432
+    },
+    {
+      "path": "system/hairaccessorylocgrp.dat",
+      "sha256": "ac38fdb88d26d348df08767814f5b34c73e0dafa9e33158a5c9b0027db1032cb",
+      "size": 4144
+    },
+    {
+      "path": "system/hairgrp.dat",
+      "sha256": "03df44930cd3752e0f67c99ad2f402028a4406d53a5e30978adc92b589c8fa59",
+      "size": 304
+    },
+    {
+      "path": "system/helmetgrp.dat",
+      "sha256": "ace5b171bf7bd6203de614257a4a523fe07e6fb14abc19af351f7b51c1809237",
+      "size": 432
+    },
+    {
+      "path": "system/hennagrp-e.dat",
+      "sha256": "837e1665358e510dbd8e36b5d71737717f894b9e71a8d06db8b68ba29a54a03c",
+      "size": 1968
+    },
+    {
+      "path": "system/huntingzone-e.dat",
+      "sha256": "658c794efe37538f7c4d6187672cb6012f02392582ddb759447e40c37ea64d2f",
+      "size": 5680
+    },
+    {
+      "path": "system/ifc23.dll",
+      "sha256": "2a4751b579ab8b68585d61dcef08fa6e9f5b853ce429b026e18a83ae1960fb1c",
+      "size": 233492
+    },
+    {
+      "path": "system/ipdrv.int",
+      "sha256": "3100cd32af272ba43a0046e235da5970bbf502eff7c0fab1dae10f501875cd66",
+      "size": 1840
+    },
+    {
+      "path": "system/l2.ini",
+      "sha256": "7b522eb8ce0a5b006fa88c67db3c15e86902bd9978dc4c1d7aa258b0546bda25",
+      "size": 3376
+    },
+    {
+      "path": "system/l2.int",
+      "sha256": "9e0b0d9095105790c51f1c9337a812cbc3a13983f2d3c8c73d3ad9a0666db010",
+      "size": 163
+    },
+    {
+      "path": "system/l2forecf.ffe",
+      "sha256": "85d0daa44733bfc97bca3e1b4124c7287b213fd04fc8c321badc9b67e0cac4af",
+      "size": 3516
+    },
+    {
+      "path": "system/largefont-e.gly",
+      "sha256": "82d0f5eb9b7290c8f335473d5a5f03fc6e2d14440e7d8c5e322500f164c8c048",
+      "size": 1560
+    },
+    {
+      "path": "system/largefont.gly",
+      "sha256": "f6ea168898793c9923b4af54883ac564d09afc5520e6afdc3bb37bce71dfb819",
+      "size": 185632
+    },
+    {
+      "path": "system/lineagemonster2.int",
+      "sha256": "e012c859d1ef01aab1aadbe7c35af06b09f5c51d14cd58b50e9d01e6ea8c6377",
+      "size": 151403
+    },
+    {
+      "path": "system/lineagenpc2.int",
+      "sha256": "079fea46921b9521baf398116f2fa91b62c0f9503f542c39f6e4dfeecb01bd63",
+      "size": 4344
+    },
+    {
+      "path": "system/lineagewarrior.int",
+      "sha256": "8d951cbccd010a849f05df827d7065ec5f9372245953e71f3e88344cf8189485",
+      "size": 193542
+    },
+    {
+      "path": "system/logongrp.dat",
+      "sha256": "ab16f82257ca2033a596f36cf4fd605a39ae51037f9e9c89db12770f968ba6a7",
+      "size": 432
+    },
+    {
+      "path": "system/msxml4.dll",
+      "sha256": "26bd2a7dad04a548c22d16c6769ef1bb00d2517f6fa721d05fb06d96befab215",
+      "size": 1233940
+    },
+    {
+      "path": "system/msxml4a.dll",
+      "sha256": "51e38d41a2bc89e65896a48e348ad35d4b12348a665197cadc95fc87fa4a9564",
+      "size": 44564
+    },
+    {
+      "path": "system/msxml4r.dll",
+      "sha256": "b9d07b33cae92176bd0f31a5aaf8bea5b6362fdc59e6a43b82f8b43db9f6cca9",
+      "size": 82452
+    },
+    {
+      "path": "system/musicinfo.dat",
+      "sha256": "837692b210a943deec1caa9ad0c6b3a2a5839fef677f500483506f287cd8797b",
+      "size": 3376
+    },
+    {
+      "path": "system/npcgrp.dat",
+      "sha256": "f551a0f9a0d6765bd783d8f55b1847ba2d5e17acb9a50ae4268c11e1f13d3e8c",
+      "size": 233392
+    },
+    {
+      "path": "system/npkcrypt.dll",
+      "sha256": "9282658bb34374c9f06f557351ba0898a41f7655ccbfed592692e73be2df1aa6",
+      "size": 409700
+    },
+    {
+      "path": "system/npkcrypt.sys",
+      "sha256": "f556d97050aa9d4573bca01316a1a84b70668694ef759c2576b5af4013870a00",
+      "size": 23217
+    },
+    {
+      "path": "system/npkcrypt.vxd",
+      "sha256": "444e724ae455d337ed25f9b143b998092773904b145f125c9488856c2d7843f5",
+      "size": 26344
+    },
+    {
+      "path": "system/npkcusb.sys",
+      "sha256": "7c4aed917ce3b2ac21e233a37db2b70aa1fe8d7f1508428a5a213258d634e179",
+      "size": 15472
+    },
+    {
+      "path": "system/npkpdb.dll",
+      "sha256": "4d6195979286e35706769fd4420f14e947e489711d4ffca8c1124c5d8d1da4dd",
+      "size": 53268
+    },
+    {
+      "path": "system/obscene-e.dat",
+      "sha256": "c32e793ee0ce2758166634c26f34390ad6c24683fd4f3d74264940dfec20aef4",
+      "size": 304
+    },
+    {
+      "path": "system/ogg.dll",
+      "sha256": "732ee0dc9122c14aab0b65818adfe255ea3c35458e5796d5268e7ac773b534e8",
+      "size": 61460
+    },
+    {
+      "path": "system/openal32.dll",
+      "sha256": "0ae39cd1032b52e257eb64f68fbef3457298193190e50b85a9a6ab3bbc54832a",
+      "size": 114708
+    },
+    {
+      "path": "system/optiondata_client-e.dat",
+      "sha256": "a1d5d46e8356358686dddfd443de618156dc44fab0a79fe5687f6496f7c3ee4e",
+      "size": 96176
+    },
+    {
+      "path": "system/questname-e.dat",
+      "sha256": "1fcbd370a1b9515410cb680630636f4bd1bc9a23c24c31e1d11155306e156561",
+      "size": 188464
+    },
+    {
+      "path": "system/raiddata-e.dat",
+      "sha256": "5344571b7ee413b616049a73d7eaabd0899b3ace79509b6d17410dd8a7eee359",
+      "size": 29744
+    },
+    {
+      "path": "system/recipe-c.dat",
+      "sha256": "86cc9502a876ff1128a237d3c414ea56ec1838a034b0ba7c2eb4871e2a2a9813",
+      "size": 23856
+    },
+    {
+      "path": "system/s_info.ini",
+      "sha256": "3ce9b93ffaaf794213be89090b53b59e6c840c1f0a857e8ff7e1c0f6caeee636",
+      "size": 70
+    },
+    {
+      "path": "system/servername-e.dat",
+      "sha256": "5f93a71a2c124cb20da034ce04a54679dd4371e5100f90f410545a9df6ed9074",
+      "size": 1328
+    },
+    {
+      "path": "system/skillgrp.dat",
+      "sha256": "4e245e914048cee34ada7fb6ed6b499976cbe961ad5bd0a8bfdcf00a1e2288d9",
+      "size": 159152
+    },
+    {
+      "path": "system/skillname-e.dat",
+      "sha256": "ba13bdca06752a842e87a5e75a0695782910359a4e2ac1edac40df48fc5471ef",
+      "size": 286128
+    },
+    {
+      "path": "system/skillsoundgrp.dat",
+      "sha256": "14c9df542ccb0b342f1fd091b7177438cdf3705fb43581d0fc69b6c9ceeb14f5",
+      "size": 28080
+    },
+    {
+      "path": "system/smallfont-e.gly",
+      "sha256": "5089b353720f263cf4ef53857d85a44533745b0a173d530e637d4b1e79dd8232",
+      "size": 1560
+    },
+    {
+      "path": "system/smallfont.gly",
+      "sha256": "0a8ea3558313661dc0dc69a42589cd7a5755f0ec0ab2cdc3dceb58fa17813ac1",
+      "size": 181800
+    },
+    {
+      "path": "system/soulshot.int",
+      "sha256": "e5e48315eed13ee4459a57d67bc9198db8790e36814cf1be6a91c6c2232aa324",
+      "size": 1702
+    },
+    {
+      "path": "system/staticobject-e.dat",
+      "sha256": "9e0a2cfd4c1fa91b77b655d0dbaa76801335fa09bafe9522b3da4705921ee3c5",
+      "size": 2480
+    },
+    {
+      "path": "system/symbolname-e.dat",
+      "sha256": "2b7646a2a400db7c7db5541bc5b5cf040f4b3376eb287ab9768dac6025a0f188",
+      "size": 304
+    },
+    {
+      "path": "system/sysstring-e.dat",
+      "sha256": "13bc5f4f51c20059769f9b277096a7bccd7a1ef0e9128ac8d746c516b100dc2c",
+      "size": 15792
+    },
+    {
+      "path": "system/systemmsg-e.dat",
+      "sha256": "74c8424d9e6007719a3bf7934bc8708d0405ba03684ccf89a1c9fd70d21f65ee",
+      "size": 49840
+    },
+    {
+      "path": "system/timeenv0.int",
+      "sha256": "99fe1d3c71298a03f22d1d9491600e3cec89e0934e56b67a50c8afec08cfae54",
+      "size": 13233
+    },
+    {
+      "path": "system/timeenv1.int",
+      "sha256": "992a4f473b9dc2e0329c54f76dc32e70abceb61f5fbe04d131bcf46b1c32c3aa",
+      "size": 14452
+    },
+    {
+      "path": "system/timeenv2.int",
+      "sha256": "9a05072f521557d26d1a21dec6effd30e989f5515359f785f361909dd7b13ce3",
+      "size": 13322
+    },
+    {
+      "path": "system/timeenv3.int",
+      "sha256": "55a9fe7e8cb80c7e88896d07aa1ace925b6fb3d884ca26308da282eb03e3eeee",
+      "size": 14099
+    },
+    {
+      "path": "system/variationeffectgrp-e.dat",
+      "sha256": "3f936f7e4f43275085ac9f4172d8ed67465b8c90087ee667cb6cb8a761947643",
+      "size": 1456
+    },
+    {
+      "path": "system/vorbis.dll",
+      "sha256": "5548137178bc2276043f525d4115b4f433bf89437952f352203cd5a58fabe820",
+      "size": 249876
+    },
+    {
+      "path": "system/vorbisfile.dll",
+      "sha256": "1e05684598d59b89c38ff9e8857bb6956620eaf4ca486b0b1e3796b59fc1655b",
+      "size": 106516
+    },
+    {
+      "path": "system/weapongrp.dat",
+      "sha256": "eea267ac21afa5f2e148349d5aaab9670dbc67cde3878f1a8db5aba2364550b9",
+      "size": 78128
+    },
+    {
+      "path": "system/wform.bm",
+      "sha256": "c52f1782a62f0c5c107c9d6c76218536110aca674ad30c3498f6c19faf9bcf0a",
+      "size": 527005
+    },
+    {
+      "path": "system/window.int",
+      "sha256": "c471d23c55c4ac7e855893cfd858b46663900def92eb81921d0cc5f5df259ffc",
+      "size": 2337
+    },
+    {
+      "path": "system/windrv.int",
+      "sha256": "1f94173c9a360857f5f39cefc77c9b23823462d21ce418d201c7945c0ffb62bf",
+      "size": 729
+    },
+    {
+      "path": "system/wrap_oal.dll",
+      "sha256": "7bce7f6198bc90e0ec24e0455f7407069364113f1d2cc339e22932ec0ace7b83",
+      "size": 409620
+    }
+  ]
+}

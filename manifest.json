@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-14_025537",
+  "version": "2026-06-14_025710",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -240,11 +240,6 @@
       "path": "system/Window.dll",
       "sha256": "1b1b6328087ab8fefed4dcdd27388e3177e4fcfdaf61d50b3e34df93b8493a31",
       "size": 749588
-    },
-    {
-      "path": "system/WindowsInfo.ini",
-      "sha256": "dee841ecca55c3716ccc891133c9b37d7f4e14f46f4924aeffdf1c9986d3fe4c",
-      "size": 2166
     },
     {
       "path": "system/ZoneName-e.dat",
@@ -530,11 +525,6 @@
       "path": "system/recipe-c.dat",
       "sha256": "86cc9502a876ff1128a237d3c414ea56ec1838a034b0ba7c2eb4871e2a2a9813",
       "size": 23856
-    },
-    {
-      "path": "system/s_info.ini",
-      "sha256": "3ce9b93ffaaf794213be89090b53b59e6c840c1f0a857e8ff7e1c0f6caeee636",
-      "size": 70
     },
     {
       "path": "system/servername-e.dat",

@@ -21,6 +21,8 @@ EXCLUDE_BASENAMES = {
     "user.ini",        # клавіші, графіка, особисті опції гравця
     "option.ini",      # особисті опції
     "running.ini",     # лок-файл запущеного клієнта
+    "windowsinfo.ini", # позиція/розмір вікон (клієнт переписує сам)
+    "s_info.ini",      # системна інфо (переписується сам)
     "put-system-here.txt",
     ".ds_store",
     ".hashcache.json",

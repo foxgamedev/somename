@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-16_164427",
+  "version": "2026-06-17_013857",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -338,8 +338,8 @@
     },
     {
       "path": "system/etcitemgrp.dat",
-      "sha256": "0f752a6d27aecda02c99b6f0fa4a710b33731fa36786ca3d3de54f1aec4c8747",
-      "size": 80816
+      "sha256": "8381f752b9705ed041ce34ba798f0838b092268d84bc947152e8225e003eed23",
+      "size": 74544
     },
     {
       "path": "system/eula-e.dat",

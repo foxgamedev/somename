@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-16_164119",
+  "version": "2026-06-16_164427",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -640,6 +640,11 @@
       "path": "system/wrap_oal.dll",
       "sha256": "7bce7f6198bc90e0ec24e0455f7407069364113f1d2cc339e22932ec0ace7b83",
       "size": 409620
+    },
+    {
+      "path": "systextures/L2Font-e.utx",
+      "sha256": "196a49e13ee2a4cb58e5b06810ca688fbbee33228314c6d80e90ccbb16e6f894",
+      "size": 21010151
     }
   ]
 }

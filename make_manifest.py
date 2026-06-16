@@ -22,6 +22,7 @@ EXCLUDE_BASENAMES = {
     "option.ini",      # особисті опції
     "running.ini",     # лок-файл запущеного клієнта
     "windowsinfo.ini", # позиція/розмір вікон (клієнт переписує сам)
+    "chatfilter.ini",  # фільтри/вкладки чату (особисті налаштування гравця)
     "s_info.ini",      # системна інфо (переписується сам)
     "put-system-here.txt",
     ".ds_store",

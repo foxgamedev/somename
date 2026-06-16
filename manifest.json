@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-17_013857",
+  "version": "2026-06-17_015029",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -275,11 +275,6 @@
       "path": "system/chargrp.dat",
       "sha256": "2bb52de25ef3558f51e458c0095efcd9c509dfd5b5695a269f268b5f235fbc0f",
       "size": 2480
-    },
-    {
-      "path": "system/chatfilter.ini",
-      "sha256": "6c15535d48830d40a822ed665f2a67cb537f13db6d344e2b2d5d86fab6c1d7ea",
-      "size": 203
     },
     {
       "path": "system/classinfo-e.dat",

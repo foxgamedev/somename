@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-16_124630",
+  "version": "2026-06-16_100533",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -88,8 +88,8 @@
     },
     {
       "path": "system/ItemName-e.dat",
-      "sha256": "56195cdc30db94698adb9f85a0c02e6adad1a9e08732c0f004e8e8ba7ce636d1",
-      "size": 237872
+      "sha256": "31edaba5d0853f21081c5a7aa971582456dc1489ed2ed6d5a17a30f430428e8e",
+      "size": 239280
     },
     {
       "path": "system/L2.exe",

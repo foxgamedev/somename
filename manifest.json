@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-18_213744",
+  "version": "2026-06-18_221135",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -458,8 +458,8 @@
     },
     {
       "path": "system/npcgrp.dat",
-      "sha256": "f551a0f9a0d6765bd783d8f55b1847ba2d5e17acb9a50ae4268c11e1f13d3e8c",
-      "size": 233392
+      "sha256": "5b8bcac2a087c3d35189bf112cb95e50caaf5cdb730efd3eae7c39da3397737d",
+      "size": 222896
     },
     {
       "path": "system/npkcrypt.dll",

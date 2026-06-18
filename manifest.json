@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-18_183615",
+  "version": "2026-06-18_154952",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -88,7 +88,7 @@
     },
     {
       "path": "system/ItemName-e.dat",
-      "sha256": "7f30fb6e3f59e7f5b7e1310787bae471b894c587225b54d0f4196c221bc8a9c2",
+      "sha256": "b5d7b3d80be4e53ecbbb160718886f6ab9086e6897886eb9178e1ec4b70c32ff",
       "size": 237616
     },
     {
@@ -253,7 +253,7 @@
     },
     {
       "path": "system/armorgrp.dat",
-      "sha256": "45b24fb2e5ed9410ffc80942ee80e67f36b22e0889f21890783d7bce8220310b",
+      "sha256": "89d609fdfa78ca8b9ef0675698acc258959888e056ebf6b2a2a4a7242b2cb152",
       "size": 90672
     },
     {

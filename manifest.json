@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-19_024021",
+  "version": "2026-06-19_003229",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -508,8 +508,8 @@
     },
     {
       "path": "system/questname-e.dat",
-      "sha256": "1fcbd370a1b9515410cb680630636f4bd1bc9a23c24c31e1d11155306e156561",
-      "size": 188464
+      "sha256": "c563ca074054555b31bc84a979a2dda69764bc136d2d0cee99ba6220c5f69c85",
+      "size": 208304
     },
     {
       "path": "system/raiddata-e.dat",

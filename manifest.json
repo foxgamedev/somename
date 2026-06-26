@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-26_232106",
+  "version": "2026-06-27_000626",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -253,8 +253,8 @@
     },
     {
       "path": "system/armorgrp.dat",
-      "sha256": "a97bcc84dd6e55e2e0ddd31ef4e6fb256a20ca76d39a7df5d6a70ed58af9a46a",
-      "size": 91056
+      "sha256": "fc26d134ac6190a970aacd32b899edbae1105b9b2d2d14ca13e3ca9c62665273",
+      "size": 93616
     },
     {
       "path": "system/asiahm-medium.ttf",

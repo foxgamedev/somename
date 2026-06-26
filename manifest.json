@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-27_001558",
+  "version": "2026-06-27_012155",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -88,8 +88,8 @@
     },
     {
       "path": "system/ItemName-e.dat",
-      "sha256": "565b0e824b2cef240da1e4c70ed6adbf7000ece51ab939d670dc99667a654a2e",
-      "size": 251824
+      "sha256": "f8ecdd88f15002409a7342182bb577b0a9fd7137875f80f92555a2884af8fc70",
+      "size": 252080
     },
     {
       "path": "system/L2.exe",
@@ -253,7 +253,7 @@
     },
     {
       "path": "system/armorgrp.dat",
-      "sha256": "8b328c8fae75d0a60a41a7c80d479603e75530f7f1b8152313a7e14dae412dca",
+      "sha256": "a845fd8ea9de38edaad89103792fa6ca0f868c3f3d251e153eced1e2278cd2b5",
       "size": 93616
     },
     {
@@ -533,8 +533,8 @@
     },
     {
       "path": "system/skillname-e.dat",
-      "sha256": "e5a8a0047602f50642257b18bf90c96e66fb4db098cd0323675ca011943407fd",
-      "size": 277680
+      "sha256": "6a3de709d1f1941d6d9336fa0f07135145990b89d1ea5d95eea0d8ea32f38771",
+      "size": 277936
     },
     {
       "path": "system/skillsoundgrp.dat",

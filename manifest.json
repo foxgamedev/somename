@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-27_012155",
+  "version": "2026-06-28_012342",
   "files": [
     {
       "path": "system/ALAudio.dll",
@@ -333,7 +333,7 @@
     },
     {
       "path": "system/etcitemgrp.dat",
-      "sha256": "939785944b4d23fe103d568c7b96645f69e27d0f6a4791d5154a3403d0b30bf6",
+      "sha256": "caf8ea54903af5fd886a4b24fdc671e4542fec8aad9a7046b19d8b77a044cbc6",
       "size": 74672
     },
     {
@@ -528,7 +528,7 @@
     },
     {
       "path": "system/skillgrp.dat",
-      "sha256": "cb0b30bc47df0d279e23161e85be023a700ac158be4ed36e8f44965d3e2720df",
+      "sha256": "0891665f0850cbb2a9a5bfac2ddb763b64cf8e0822d33667effa5e2b77ba9aff",
       "size": 146608
     },
     {
